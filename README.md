@@ -1,3 +1,7 @@
+# Docker Node.js Application Tutorial
+
+This is a simple Node.js application that displays a "Hello, World!" message when accessed. It is designed to be run in a Docker container.
+
 In order to run this project, you need to have docker installed on your machine. If you don't have it installed, you can download it from [here](https://docs.docker.com/get-docker/).
 
 Once you have docker installed, you can build the docker image by running the following command in the terminal:
